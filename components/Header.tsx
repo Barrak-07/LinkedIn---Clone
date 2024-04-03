@@ -5,6 +5,7 @@ function Header() {
     <div> 
         <nav>
             <Logo/>
+            <h1>logo here</h1>
             <div className="h">adasd</div>
             
         </nav>
